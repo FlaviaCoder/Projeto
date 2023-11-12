@@ -1,0 +1,22 @@
+body {
+    background-color:bisque ;
+}
+
+h1{
+    color: brown;
+     text-align: center;
+     margin: 80px;
+     position: relative;
+     border-style: dashed ;
+    border-width: 3px;
+    
+    }
+
+img{
+   
+  display: block;
+    margin-right: auto;
+   margin-left:auto;
+   height: 60vh;
+   border-radius: 10px;
+}
